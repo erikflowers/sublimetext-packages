@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+@media(min-width: @screen-${1:}) {
+  ${2:}
+}${3:}
+]]></content>
+  <tabTrigger>media</tabTrigger>
+  <scope>source.css, source.scss, source.sass</scope>
+  <description>media</description>
+</snippet>

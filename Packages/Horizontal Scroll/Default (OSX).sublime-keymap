@@ -1,0 +1,4 @@
+[
+    { "keys": ["ctrl+alt+shift+down"], "command": "scroll_width", "args": {"amount": 30 } },
+    { "keys": ["ctrl+alt+shift+up"], "command": "scroll_width", "args": {"amount": -30 } }
+]

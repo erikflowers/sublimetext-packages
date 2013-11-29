@@ -1,0 +1,23 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"ColorPick",
+		"ColorPicker",
+		"CSScomb",
+		"Enhanced Clojure",
+		"GitGutter",
+		"Hex to HSL Color Converter",
+		"Hex-to-RGBA",
+		"Horizontal Scroll",
+		"HTML Snippets",
+		"Package Control",
+		"Sass",
+		"SublimeGit"
+	],
+	"repositories":
+	[
+		"https://github.com/weslly/ColorPicker.git"
+	]
+}

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+@import "${1:}";
+]]></content>
+  <tabTrigger>import</tabTrigger>
+  <scope>source.css, source.scss, source.sass, source.less</scope>
+  <description>import</description>
+</snippet>

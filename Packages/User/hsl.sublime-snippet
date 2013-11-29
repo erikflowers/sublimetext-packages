@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+hsl(${1:0}, ${2:0}%, ${3:100}%);
+]]></content>
+  <tabTrigger>hsl</tabTrigger>
+  <scope>source.css, source.scss, source.sass, source.less</scope>
+  <description>hsl()</description>
+</snippet>
